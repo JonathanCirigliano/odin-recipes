@@ -1,0 +1,74 @@
+*{
+    background-color: #f3f3f3;
+    font-family: "Roboto", sans-serif;
+}
+
+h1{
+    color: white;
+    text-transform: uppercase;
+    background-color: #131313;
+    text-align: center;
+    padding: 20px 0;
+}
+
+h2{
+    background-color: red;
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 5px;
+}
+
+.ingredients{
+    background-color: green;
+}
+
+.steps{
+    background-color: purple;
+}
+
+img{
+    display: block;
+    margin: 80px auto;
+    border-radius: 20%;
+}
+
+ol{
+    background-color: #131313;
+    color: #dcdde1;
+}
+
+ol li{
+    background-color: #131313;
+    color: #dcdde1;
+}
+
+ul li{
+    text-align: center;
+    list-style-type: none;
+    background-color: #dcdde1;
+}
+
+li{
+    padding: 20px;
+    color: 131313;
+}
+
+li a{
+    text-decoration: none;
+    color: #131313;
+    background-color: transparent;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.home{
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #131313;
+    font-size: 20px;
+    background-color: yellow;
+    display: block;
+    padding: 5px;
+}
